@@ -22,7 +22,8 @@ files used to produce the r-markdown reports are saved in the folder below: \cor
 
 1. RTDS_90DM_Part1_DataCleaning_patient_H&N.do
 2. RTDS_90DM_Part2_head_and_neck.do
-for the re-run of 2022/2023 and 2023/2024 no trusts were excluded.
+   
+For the re-run of 2022/2023 and 2023/2024 no trusts were excluded.
 
 Reports The reports are generated using Rmarkdown and are output as *.html files
 3.1 There are two Rmarkdown files to generate the reports: 
